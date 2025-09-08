@@ -10,21 +10,21 @@ redirect_from:
 
 Education
 ======
-- Institut Polytechnique de Paris — Master 2 in Data Science (09/2025–09/2026)  
-  Coursework: Monte Carlo methods and approximate inference; statistical learning theory; optimization for data science; optimal transport; reinforcement learning; ML with graphs; generative models; representation learning for computer vision.[1]
-- Télécom Paris — Engineering degree, major in Computer Vision and Signal Processing (09/2022–12/2026)  
-  Coursework: optimization for ML, statistics, signal processing, databases, time series; computer vision (image processing, generative models, medical and satellite imaging, deep learning, 3D).[1]
-- Sainte‑Geneviève High School (Classes Préparatoires PC) — Mathematics, Physics, Chemistry (09/2020–09/2022)  
+- ### Institut Polytechnique de Paris — Master 2 in Data Science (09/2025–09/2026)  
+  Coursework: Monte Carlo methods and approximate inference; statistical learning theory; optimization for data science; optimal transport; reinforcement learning; ML with graphs; generative models; representation learning for computer vision.
+- ### Télécom Paris — Engineering degree, major in Computer Vision and Signal Processing (09/2022–12/2026)  
+  Coursework: optimization for ML, statistics, signal processing, databases, time series; computer vision (image processing, generative models, medical and satellite imaging, deep learning, 3D).
+- ### Sainte‑Geneviève High School (Classes Préparatoires PC) — Mathematics, Physics, Chemistry (09/2020–09/2022)  
   Intensive two‑year preparatory program for competitive French engineering schools.[1]
 
 Work experience
 ======
-- BNP Paribas CIB — Research Data Scientist Intern, Data & Analytics Consulting (Paris, 04/2025–09/2025)  
+- ### BNP Paribas CIB — Research Data Scientist Intern, Data & Analytics Consulting (Paris, 04/2025–09/2025)  
   - Studied RAG evaluation frameworks (RAGAS) focusing on response accuracy, factuality, and contextual accuracy.[1]
   - Used LLM‑as‑a‑judge methods to verify correlation with human judgment on open‑source general knowledge and finance datasets; evaluated context precision with small fine‑tuned models (~100M params) at token/sentence/chunk levels.[1]
   - Developed a proof‑of‑concept using agentic frameworks (Smolagents, CrewAI) for automated email drafting and financial product recommendation.[1]
 
-- Interdisciplinary Laboratory for Socio‑Ecological Simulation — Research Data Scientist Intern (Ottawa, 07/2024–12/2024)  
+- ### Interdisciplinary Laboratory for Socio‑Ecological Simulation — Research Data Scientist Intern (Ottawa, 07/2024–12/2024)  
   - Improved a ResNet‑34–based classifier with two additional heads to detect beluga sound activity using new data.[1]
   - Built spatiotemporal models to forecast whale presence/absence from underwater noise in the St. Lawrence Channel and analyzed environmental variables correlated with beluga vocal activity.[1]
 
