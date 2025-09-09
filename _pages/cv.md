@@ -10,27 +10,28 @@ redirect_from:
 
 Education
 ======
-- ### Institut Polytechnique de Paris — Master 2 in Data Science (09/2025–09/2026)  
+- ### Master 2 Data Science, École Polytechnique (09/2025 - 09/2026)  
   Coursework: Monte Carlo methods and approximate inference; statistical learning theory; optimization for data science; optimal transport; reinforcement learning; ML with graphs; generative models; representation learning for computer vision.
-- ### Télécom Paris — Engineering degree, major in Computer Vision and Signal Processing (09/2022–12/2026)  
+- ### Engineering degree major in Computer Vision and Signal Processing, Télécom Paris (09/2022 - 12/2026)  
   Coursework: optimization for ML, statistics, signal processing, databases, time series; computer vision (image processing, generative models, medical and satellite imaging, deep learning, 3D).
-- ### Sainte‑Geneviève High School (Classes Préparatoires PC) — Mathematics, Physics, Chemistry (09/2020–09/2022)  
+- ### Sainte‑Geneviève High School (Classes Préparatoires PC) - Mathematics, Physics, Chemistry (09/2020–09/2022)  
   Intensive two‑year preparatory program for competitive French engineering schools.
+  High school is ranked among the top 3 in France for its excellent results in the national competitive exams.
 
 Work experience
 ======
-- ### BNP Paribas CIB — Research Data Scientist Intern, Data & Analytics Consulting (Paris, 04/2025–09/2025)  
+- ### Research data scientist intern, BNP Paribas CIB, Data & Analytics Consulting (Paris, 04/2025 - 09/2025)  
   - Studied RAG evaluation frameworks (RAGAS) focusing on response accuracy, factuality, and contextual accuracy.
   - Used LLM‑as‑a‑judge methods to verify correlation with human judgment on open‑source general knowledge and finance datasets; evaluated context precision with small fine‑tuned models (~100M params) at token/sentence/chunk levels.
   - Developed a proof‑of‑concept using agentic frameworks (Smolagents, CrewAI) for automated email drafting and financial product recommendation.
 
-- ### Interdisciplinary Laboratory for Socio‑Ecological Simulation — Research Data Scientist Intern (Ottawa, 07/2024–12/2024)  
+- ### Interdisciplinary Laboratory for Socio‑Ecological Simulation — Research Intern (Ottawa, 07/2024 - 12/2024)  
   - Improved a ResNet‑34–based classifier with two additional heads to detect beluga sound activity using new data.
   - Built spatiotemporal models to forecast whale presence/absence from underwater noise in the St. Lawrence Channel and analyzed environmental variables correlated with beluga vocal activity.
 
 Projects
 ======
-- SinGAN (Generative Models), implemented “SinGAN: Learning a Generative model from a single natural image,” adapting the cost function to compare patch distributions.
+- SinGAN (Generative models), implemented “SinGAN: Learning a Generative model from a single natural image,” adapting the cost function to compare patch distributions.
 - Cancerous melanoma detection with ISIC dataset. segmentation with U‑Net; feature embedding and ABCDE rules; classification with scikit‑learn.
 - MARGO Hackathon (+IBM, Qubit Pharmaceuticals) : Developed ML models to predict cardiac toxicity of chemical compounds; awarded first prize (weekend sprint).
 
