@@ -15,3 +15,7 @@ Reproduce and extend SinGAN with custom loss shaping for patch‑level fidelity.
 
 # Results :
 Faithful single‑image generation and scale‑aware texture synthesis; ablations on patch loss variants.
+
+# Link to the github repository :
+
+https://github.com/SunJacques/SinGAN
