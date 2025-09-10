@@ -15,3 +15,5 @@ U‑Net segmentation, color/shape/texture descriptors, classical ML classifiers.
 
 # Results : 
 Improved lesion isolation and consistent feature extraction for downstream classification. I achieved a balanced accuracy of 0.544 with Random Forests on handcrafted features which rank me in the top 25% of challenge participants. 
+
+You can find the code on my github repository : [Here](https://github.com/antoineverier/kaggle-melanoma-classification.git)

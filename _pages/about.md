@@ -11,6 +11,6 @@ I’m Antoine Verier, a data science master’s student at Institut Polytechniqu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,bitbucket,github,linux,py,pytorch,tensorflow,vscode," />
+    <img src="https://skillicons.dev/icons?i=anaconda,bitbucket,github,linux,py,pytorch,tensorflow,vscode,java" />
   </a>
 </p>

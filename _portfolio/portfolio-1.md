@@ -18,4 +18,4 @@ Faithful single‑image generation and scale‑aware texture synthesis; ablation
 
 # Link to the github repository :
 
-https://github.com/SunJacques/SinGAN
+[Here](https://github.com/SunJacques/SinGAN)
